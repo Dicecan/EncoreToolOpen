@@ -7,6 +7,9 @@ An open-source conceptual implementation of the core player locating algorithm f
 
 本代码旨在用于技术交流与学习，它省略了所有与 Android 框架、UI 绑定和网络请求相关的具体实现细节。其目的是清晰地展示“普通模式”下，通过二分法结合游戏内命令反馈来定位目标的后端逻辑流程。
 
+## 获取完整版 (Get the full version)
+点击链接加入群聊【encore tool】：https://qm.qq.com/q/F8RW0aZHZm
+
 ## 核心思路 (Core Concept)
 
 本算法的核心是通过向游戏发送带有坐标范围限制的查询指令，并根据指令是否“有效”的反馈，来逐步缩小目标的可能存在区域。
