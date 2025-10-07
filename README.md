@@ -30,7 +30,7 @@ An open-source conceptual implementation of the core player locating algorithm f
 
 ## 许可证 (License)
 
-本项目采用  开源许可证。
+本项目采用  Apache License 2.0,开源许可证。
 
 ---
 
